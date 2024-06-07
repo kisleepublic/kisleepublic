@@ -1,11 +1,12 @@
 ## Hi there 👋
+I am a researcher with a passion for exploring the intersection of artificial intelligence (AI) and various fields, particularly in the humanities. I am fascinated by the potential of AI to enhance our understanding of human culture, history, and creativity.
 
 <!--
 **kisleepublic/kisleepublic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on Humanities Research Institute, Chung-Ang University.
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
