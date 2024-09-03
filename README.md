@@ -7,7 +7,7 @@ I am a researcher passionate about exploring the intersection of artificial inte
 
 ### Skills and Expertise
 - **Machine Learning:** Proficient in supervised and unsupervised learning algorithms, including deep learning.
-- **Natural Language Processing (NLP):** Expertise in text mining, sentiment analysis, and analyzing unethical text content.
+- **Natural Language Processing (NLP):** Expertise in text mining, emotion recognition, and analyzing unethical text content.
 - **Programming Languages:** Python, Java, C++
 
 <!--
